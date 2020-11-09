@@ -1,4 +1,6 @@
 // leave first question as a sample
+// javascript questions only
+// strictly Javascript
 questions: [
 {
   id: 1, // numbers only
