@@ -1,5 +1,7 @@
 # Quiz-api
-This is a section of the dev project currently in progress. With this repository we intend to put questions and answers on programming so as to use it as an api for the quiz in the parent project.
+This is a section of the dev project currently in progress. With this repository we intend to put questions and answers on programming so as to use it as an api for the quiz in the parent project. 
+This API is available to all, the website link will be posted soon.
+___
 __Note:__ Questions will be attributed to each contributers in the finished project, as well as a link to your profile or website; that is if you choose to leave your name on it.
 # This is the guide on submitting questions.
 In the code, there is a questions array of objects, each objects contain a key and a value of string / number except the "__options__" key which contains an array of possible options. The array of objects is further explained below
